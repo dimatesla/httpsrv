@@ -1,0 +1,10 @@
+[Unit]
+Description=My Server
+After=network.target
+
+[Service]
+ExecStart=/home/orangepi/httpsrv/httpsrv/srv
+
+[Install]
+WantedBy=multi-user.target
+
