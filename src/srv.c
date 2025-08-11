@@ -12,6 +12,7 @@
 
 
 //read systemload
+//new comment, git add
 int readload(char *buffer, size_t bufsize){
 	char path[64] = "/proc/loadavg";
 	float load1, load5, load15;
