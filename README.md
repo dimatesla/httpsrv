@@ -18,7 +18,7 @@ Makefile # сборка
 
 
 
-##Making
+## Сборка
 ```bash
 make
 #or
