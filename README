@@ -22,4 +22,3 @@ make
 # или:
 gcc -O2 -Wall src/srv.c -o srv
 ```
-
