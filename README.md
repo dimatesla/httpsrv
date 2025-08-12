@@ -8,13 +8,13 @@
 - Минимум зависимостей
 
 ## Структура проекта
-*httpsrv/
-*src/ # исходники (srv.c)
-*systemd/ # unit-файл systemd
-*docs/ # скриншоты
-*log # лог-файл (игнорируется в git)
-*srv # бинарник (игнорируется в git)
-*Makefile # сборка
+- httpsrv/
+- src/ # исходники (srv.c)
+- systemd/ # unit-файл systemd
+- docs/ # скриншоты
+- log # лог-файл (игнорируется в git)
+- srv # бинарник (игнорируется в git)
+- Makefile # сборка
 
 
 
