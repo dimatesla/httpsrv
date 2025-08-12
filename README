@@ -16,10 +16,9 @@ log # лог-файл (игнорируется в git)
 srv # бинарник (игнорируется в git)
 Makefile # сборка
 
-## Сборка
-```bash
-make
-# или:
-gcc -O2 -Wall src/srv.c -o srv
-
+##Making
+```bash 
+make 
+# or:
+gcc -Wall src/srv.c -o srv
 ```
