@@ -17,7 +17,7 @@ srv # бинарник (игнорируется в git)
 Makefile # сборка
 
 ##Making
-```bash 
+```bash
 make 
 # or:
 gcc -Wall src/srv.c -o srv
